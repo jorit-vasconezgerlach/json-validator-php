@@ -1,4 +1,4 @@
-# json-validator-php
+# Json Validator PHP
 ## General Information
 **Licence** Free to copy, edit and share\
 **Languages** JS, HTML, CSS
