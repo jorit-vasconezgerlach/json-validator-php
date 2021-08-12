@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background: #000000;
+}
+#center {
+    padding: 40px 0;
+    margin: auto;
+    max-width: 400px;
+    color: #F2F2F2;
+}
+main form {
+    display: flex;
+    flex-direction: column;
+}
+main form input, main form textarea {
+    padding: 5px;
+    margin-top: 10px;
+    resize: none;
+    outline: none;
+    border: 5px solid #CA3216;
+    font-size: 14px;
+    color: #F2F2F2;
+    background: #000000;
+}

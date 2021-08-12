@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="main.css">
+<section id="center">
 <?php
     if(isset($_POST['jsonInput'])) {
         $jsonInput = $_POST['jsonInput'];
@@ -10,3 +12,4 @@
     }
     echo file_get_contents('startpage.html');
 ?>
+</section>
