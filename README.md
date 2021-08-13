@@ -1,7 +1,7 @@
 # Json Validator PHP
 ## General Information
 **Licence** Free to copy, edit and share\
-**Languages** JS, HTML, CSS
+**Languages** PHP, HTML, CSS
 
 ## About Creator
 Jorit Vásconez Gerlach\
